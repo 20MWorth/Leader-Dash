@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 426c3cf1d8f495a4c95c9ca69ee2a29f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4695783585632442382
+    second: SPRITESANDBACKGROUND123_0
+  - first:
+      213: 56957471399930621
+    second: SPRITESANDBACKGROUND123_1
+  - first:
+      213: -7629288215153089549
+    second: SPRITESANDBACKGROUND123_2
+  - first:
+      213: -6794073090682457732
+    second: SPRITESANDBACKGROUND123_6
+  - first:
+      213: 4318794329543126689
+    second: SPRITESANDBACKGROUND123_8
+  - first:
+      213: 4727948052886345156
+    second: SPRITESANDBACKGROUND123_9
+  - first:
+      213: -47592180027654406
+    second: SPRITESANDBACKGROUND123_10
+  - first:
+      213: -7136089449311534296
+    second: SPRITESANDBACKGROUND123_11
+  - first:
+      213: -1860453574870661848
+    second: SPRITESANDBACKGROUND123_12
+  - first:
+      213: -6464844939181290406
+    second: SPRITESANDBACKGROUND123_14
+  - first:
+      213: -2799854067898471007
+    second: SPRITESANDBACKGROUND123_15
+  - first:
+      213: -4505322727614823172
+    second: SPRITESANDBACKGROUND123_16
+  - first:
+      213: -1592876922324055638
+    second: SPRITESANDBACKGROUND123_17
+  - first:
+      213: 1428376664823795306
+    second: SPRITESANDBACKGROUND123_18
+  - first:
+      213: -235903015588810930
+    second: SPRITESANDBACKGROUND123_19
+  - first:
+      213: 8002948649762344200
+    second: SPRITESANDBACKGROUND123_23
+  - first:
+      213: 3124287973845424065
+    second: SPRITESANDBACKGROUND123_24
+  - first:
+      213: 2752734457179778128
+    second: SPRITESANDBACKGROUND123_25
+  - first:
+      213: -7605773531391182300
+    second: SPRITESANDBACKGROUND123_30
+  - first:
+      213: -4545360741283087841
+    second: SPRITESANDBACKGROUND123_31
+  - first:
+      213: 6144898835318877258
+    second: SPRITESANDBACKGROUND123_32
+  - first:
+      213: 8358069700781138223
+    second: SPRITESANDBACKGROUND123_33
+  - first:
+      213: -390845264357403344
+    second: SPRITESANDBACKGROUND123_34
+  - first:
+      213: -3025378767277252973
+    second: SPRITESANDBACKGROUND123_35
+  - first:
+      213: -6369951700220469836
+    second: SPRITESANDBACKGROUND123_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2998
+        width: 302
+        height: 166
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150768da8979b574fabc7fe7013258e8
+      internalID: 4695783585632442382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2998
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c7449893c66a4e9e3d23b71c8b5ef
+      internalID: 56957471399930621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_2
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2998
+        width: 304
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7623c903ef84469452607181fcd6e
+      internalID: -7629288215153089549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_6
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3000
+        width: 149
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc7b3449a78484c94676c217f052c7
+      internalID: -6794073090682457732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_8
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2998
+        width: 298
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3743c12ac2ca884db39eecff7b2235b
+      internalID: 4318794329543126689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_9
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 2998
+        width: 142
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059dbc129d859134e9e3af4f4c7826fa
+      internalID: 4727948052886345156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2099
+        width: 485
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93211f52fa534664b8af9ebeab0d35d0
+      internalID: -47592180027654406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2099
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509ae51df9aeb64fb292385ae4355a5
+      internalID: -7136089449311534296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2099
+        width: 244
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee36c9854ab3c4d9ff753bdf0d71d5
+      internalID: -1860453574870661848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_14
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2099
+        width: 634
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc2df6a892557b42a3ee37d490d5402
+      internalID: -6464844939181290406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_15
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2099
+        width: 155
+        height: 274
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1afb7636c2bb6146874b3f443dc188d
+      internalID: -2799854067898471007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1498
+        width: 185
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ac3a009286804ea630fbc8a55416e
+      internalID: -4505322727614823172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1498
+        width: 305
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896e39b12de4ab4e89f1ba7195d9e76
+      internalID: -1592876922324055638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_18
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1557
+        width: 273
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c155d3c69011444fb61fa09773537ad
+      internalID: 1428376664823795306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_19
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1501
+        width: 304
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cabf2c1e9adf54ca06e96a07d7c24f
+      internalID: -235903015588810930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 898
+        width: 305
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a131d526921dba48a431f9e50058c03
+      internalID: 8002948649762344200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 898
+        width: 305
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb675d35e86314fab2ae89402b559b
+      internalID: 3124287973845424065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_25
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1018
+        width: 294
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0c012905f1324e9074b2b20cbcad8
+      internalID: 2752734457179778128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_30
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 898
+        width: 214
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b72432dbb200a4c94f9c62f28c9d66
+      internalID: -7605773531391182300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_31
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 602
+        width: 298
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b78dd462d05cf4e8159cceb090ca67
+      internalID: -4545360741283087841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 296
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f554016c608d8c429efcf21fc4e3688
+      internalID: 6144898835318877258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_33
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 298
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f716a4fd94fa4aa0e35a906dd2137
+      internalID: 8358069700781138223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_34
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded764461d327e47a1eaaca34f70464
+      internalID: -390845264357403344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_35
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 0
+        width: 298
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ec12d410f6c74fbd5c5a4f4776df8
+      internalID: -3025378767277252973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESANDBACKGROUND123_36
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 0
+        width: 298
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472168f10b2c3f40adea8d0203f859b
+      internalID: -6369951700220469836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
