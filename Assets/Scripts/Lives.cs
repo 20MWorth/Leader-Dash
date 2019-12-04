@@ -8,8 +8,13 @@ public class Lives : MonoBehaviour
 {
 
     [SerializeField] int playerLives = 6;
-    [SerializeField] int isActive;
     [SerializeField] TextMeshProUGUI livesText;
+    [SerializeField] TextMeshProUGUI scoreText;
+    [SerializeField] public float calculatedScore;
+
+
+    FinalScore finalscore;
+    [SerializeField] Score GameScore;
 
     private void Awake()
     {
@@ -25,7 +30,13 @@ public class Lives : MonoBehaviour
     }
     void Start()
     {
+
+        if (SceneManager.GetActiveScene().buildIndex == 6)
+        {
+            Destroy(gameObject);
+        }
         livesText.text = playerLives.ToString();
+        scoreText.text = calculatedScore.ToString("F0");
     }
 
     public void CalculateLifeLoss()
@@ -50,7 +61,13 @@ public class Lives : MonoBehaviour
 
     private void ResetLivesSystem()
     {
-        SceneManager.LoadScene(6);
         Destroy(gameObject);
+        SceneManager.LoadScene(6);
+    }
+    
+    public void DisplayScore()
+    {
+        GameScore.score = calculatedScore.ToString("F0");
+        scoreText.text = calculatedScore.ToString("F0");
     }
 }

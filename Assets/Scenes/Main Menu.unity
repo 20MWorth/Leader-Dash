@@ -761,12 +761,12 @@ PrefabInstance:
     - target: {fileID: 7458332038919860148, guid: 125ab0bcb0a367e479018c3d0d36e078,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.3815064
+      value: 0.67599726
       objectReference: {fileID: 0}
     - target: {fileID: 7458332038919860148, guid: 125ab0bcb0a367e479018c3d0d36e078,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9046968
+      value: 0.67367446
       objectReference: {fileID: 0}
     - target: {fileID: 7458332038312267702, guid: 125ab0bcb0a367e479018c3d0d36e078,
         type: 3}
@@ -803,6 +803,11 @@ PrefabInstance:
       propertyPath: m_DefaultBlend.m_Time
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7458332038919860150, guid: 125ab0bcb0a367e479018c3d0d36e078,
+        type: 3}
+      propertyPath: orthographic size
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7458332038312267701, guid: 125ab0bcb0a367e479018c3d0d36e078,
         type: 3}
       propertyPath: m_Lens.OrthographicSize
@@ -812,11 +817,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Lens.OrthographicSize
       value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 7458332038919860150, guid: 125ab0bcb0a367e479018c3d0d36e078,
-        type: 3}
-      propertyPath: orthographic size
-      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 125ab0bcb0a367e479018c3d0d36e078, type: 3}

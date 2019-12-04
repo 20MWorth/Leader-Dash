@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GUI : MonoBehaviour
+[CreateAssetMenu]
+public class Score : ScriptableObject
 {
-    // Start is called before the first frame update
-
+    public string score;
 }

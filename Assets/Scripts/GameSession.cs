@@ -17,7 +17,6 @@ public class GameSession : MonoBehaviour
     private void Start()
     {
         countdown = timeAmountInSec;
-        lives = FindObjectOfType<Lives>();
     }
     // Update is called once per frame
     void Update()
@@ -37,6 +36,12 @@ public class GameSession : MonoBehaviour
     public void TriggerTimer()
     {
         startTimer = true;
+    }
+    public void CaptureTimer()
+    {
+        lives = FindObjectOfType<Lives>();
+        lives.calculatedScore += countdown;
+        lives.DisplayScore();
     }
 
 }
